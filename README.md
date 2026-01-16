@@ -1,14 +1,14 @@
 ![logo](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Muzammil</h1>
-<h3 align="center">A passionate DevOps Engineer </h3>
+<h3 align="center">DevOps Engineer </h3>
 
 <img align="right" alt="aws work flow" widht="250" height="250" src="https://i.pinimg.com/originals/88/e5/a4/88e5a4a52f0d7725c5e56364422b79fc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmuzammil6880&label=Profile%20views&color=0e75b6&style=flat" alt="mmuzammil6880" /> </p>
 
-- 👨‍💻 I’m currently working as a **Full-Stack Developer with DevOps Experties**
+- 👨‍💻 I’m currently working as a **Cloud/DevOps Engineer**
 
-- 💬 Ask me about **DevOps, AWS, Linux, Docker, Terraform, Ansible, CICD, Grafana, Jenkins, React, Angular, Node.JS, Next.JS, Nest.JS, Laravel, MongoDB, Postgres, MYSQL**
+- 💬 Ask me about **DevOps, AWS, Linux, Docker, Terraform, Ansible, CICD, Grafana, Jenkins, Cloudflare**
 
 - 📫 How to reach me **mmuzammil.tech@gmail.com**
 
